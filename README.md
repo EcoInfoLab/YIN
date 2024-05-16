@@ -17,8 +17,8 @@ Input file (parameter.txt)
 -------------
 Tab separated file    
 ````
-baseT	criticalT	alpha	beta	RmaxVeg	RmaxRep    
-10	36	1.5	0.5	1.05	1.
+baseT	criticalT	alpha	beta	RmaxVeg	RmaxRep
+11.9	34	3.5	0.3	-13.7	-5.7
 ````
 Input file (weather files)    
 -------------
